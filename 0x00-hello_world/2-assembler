@@ -1,6 +1,2 @@
 #!/bin/bash
-gcc -c $FILE
-
-gcc -S $CFILE.  Assembler
-
-gcc $CFILE -o cisfun - Name
+gcc -S $CFILE
